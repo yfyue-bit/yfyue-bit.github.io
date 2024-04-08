@@ -1,1 +1,1 @@
-link: https://yfyue-bit..github.io
+link: https://yfyue-bit.github.io
